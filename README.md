@@ -26,12 +26,12 @@ Visualize results using graphs and tables.
 Provide insights into the performance of SVM with various configurations.
 Files Included:
 Project02-MoTaDoAn.pdf: Project description document.
-Project02-MoTaDoAn.ipynb: Jupyter Notebook containing the code for the project.
+Project02.ipynb: Jupyter Notebook containing the code for the project.
 imdb_reviews.csv: Dataset for text classification.
 README.md: Project overview document.
 Instructions for Running the Code:
 Ensure you have the necessary Python libraries installed (scikit-learn, matplotlib).
-Open the Jupyter Notebook Project02-MoTaDoAn.ipynb.
+Open the Jupyter Notebook Project02.ipynb.
 Follow the step-by-step instructions in the notebook to execute the code.
 Conclusion:
 The project aims to provide insights into the performance of SVM in text classification tasks and guide users in optimizing hyperparameters for efficient and accurate model training.

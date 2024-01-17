@@ -1,6 +1,6 @@
 # Project Overview
 # Title: Text Classification using Support Vector Machines (SVM)
-#Description:
+# Description:
 This project focuses on building a text classification model using Support Vector Machines (SVM). The primary goal is to explore the effectiveness of SVM in categorizing text data and optimizing its performance through the analysis of various hyperparameters and features.
 
  Project Structure:
